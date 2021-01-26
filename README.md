@@ -1,5 +1,5 @@
 # australia-healthdata
-A colection of data reguarding the Australian Healthcare system
+A collection of data on the Australian Healthcare system
 
 ## Current List
 * List of all hospitals - as defined by the health department
